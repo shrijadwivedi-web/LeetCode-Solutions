@@ -32,7 +32,11 @@ successful submission.
 
 ## LeetCode Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=heatmap)
+## LeetCode Statistics
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shrijadwivedi_/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shrijadwivedi_?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/shrijadwivedi_/)
 
 ## Objectives
 
